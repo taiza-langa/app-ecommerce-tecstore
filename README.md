@@ -1,4 +1,4 @@
-<h3>App Ecommerce Web</h3>
+## App Ecommerce Web
 
 <h5>Tecnologias utlizadas</h5>
 
