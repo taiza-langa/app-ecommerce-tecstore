@@ -1,6 +1,6 @@
 ## App Ecommerce Web
 
-<h5>Tecnologias utlizadas</h5>
+## Tecnologias utlizadas
 
 -HTML
 -CSS
