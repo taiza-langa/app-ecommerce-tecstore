@@ -2,7 +2,7 @@
 
 ## Tecnologias utlizadas
 
--HTML
+-HTMl
 -CSS
 -JavaScript
 
